@@ -1,7 +1,10 @@
 # Getting Started with Create React App
 
+inside the folder
+
+Terminall
 Install yarn - `yarn add install`
-Start yarn - `yarn dev`
+Start yarn - `yarn start`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
